@@ -20,6 +20,8 @@ I'm Ahmed Shorafa, a professional Back End developer with 3+  year of experience
   <li>JQuery, Ajax</li>  
   <li>RESTFul API.</li>  
   <li>Git, Github</li>  
+  <li>Vue 3</li>  
+  <li>inertiajs</li>  
 </ul>
 <!--
 **AhmedShurafa/AhmedShurafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
